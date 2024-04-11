@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hiii! Welcome to my personal portfolio. It is a work in progress! (＾-＾)
+
+I'm currently setting up a website to showcase the work I've done. Check back soon!
 
 <!--
 **leeyaudrey/leeyaudrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

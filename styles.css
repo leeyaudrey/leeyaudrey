@@ -1,3 +1,25 @@
-body {
-    background-color: powderblue;
+
+/* COLOR PALETTE ------------------------------------------------*/
+:root {
+    --midnight-blue: #0E131F;
+    --slate-gray: #38405F;
+    --purple-heart: #59546C;
+    --silver-chalice: #8B939C;
+    --ruby-red: #FF0035;
+  }
+  
+  /* Example usage */
+  .element {
+    background-color: var(--midnight-blue);
+  }
+  
+  .another-element {
+    color: var(--ruby-red);
+  }
+  
+
+
+  body {
+    background-color: var(--midnight-blue);
 }
+
