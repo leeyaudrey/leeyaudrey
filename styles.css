@@ -39,12 +39,12 @@ body {
   text-transform: uppercase;
 }
 
-a {
+.topnav a {
   text-decoration: none;
   color: #fff090;
 }
 
-li {
+.topnav li {
   color: #4faf44;
 }
 
