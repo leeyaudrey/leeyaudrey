@@ -16,12 +16,6 @@
   .another-element {
     color: var(--ruby-red);
   }
-  
-
-
-  body {
-    background-color: var(--midnight-blue);
-}
 
 /* nav bar CSS below */
 
@@ -32,11 +26,12 @@
   padding: 0;
 }
 
-html, body {
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  font-family: 'Press Start 2P';
+html,
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Press Start 2P";
   font-size: 1rem;
   line-height: 2;
   height: 100%;
@@ -50,7 +45,7 @@ a {
 }
 
 li {
-  color: #4FAF44;
+  color: #4faf44;
 }
 
 .arrow i {
@@ -58,19 +53,20 @@ li {
 }
 
 .arrow {
-  position:relative;
-	display: block;
-  color: #F6EB14;
+  position: relative;
+  display: block;
+  color: #f6eb14;
 }
 
 .arrow:hover {
   cursor: pointer;
-  background-color: rgba(0,0,0,0.2);
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
-.arrow:hover i { 
+.arrow:hover i {
   display: block;
   position: absolute;
-  top: 0.50em; 
+  top: 0.5em;
   left: -6em;
 }
+
